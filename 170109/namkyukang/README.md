@@ -1,1 +1,1 @@
-![](http://m.post.naver.com/viewer/image.nhn?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxNjExMTFfNTkg%2FMDAxNDc4ODM2NjY1OTYy.H96607YSCwwB27PXW7X-s_iKNaTKGWfFcZHKgjWtbxIg._Hqs9sWb4XzFMjoXKWz2a24pIvbQ2ZcykvrAQr4JDr0g.JPEG%2F0.jpg)
+![부자](http://m.post.naver.com/viewer/image.nhn?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxNjExMTFfNTkg%2FMDAxNDc4ODM2NjY1OTYy.H96607YSCwwB27PXW7X-s_iKNaTKGWfFcZHKgjWtbxIg._Hqs9sWb4XzFMjoXKWz2a24pIvbQ2ZcykvrAQr4JDr0g.JPEG%2F0.jpg)
