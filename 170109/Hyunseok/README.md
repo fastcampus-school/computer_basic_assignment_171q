@@ -1,4 +1,4 @@
-
+﻿
 
 ﻿# 나는 왕이 올시다
 
@@ -94,3 +94,14 @@
 
 * [코오롱스포츠 안타티카 광고](https://www.youtube.com/watch?v=PVWs6xFURVM), [현대카드 슈퍼매치](https://www.youtube.com/watch?v=X-Z5q9KBrxI)
 《[Queen - Play The Game](https://www.youtube.com/watch?v=6_5O-nUiZ_0)》
+
+
+=======================================
+
++ 추가
+
+엄청 팬은 아니지만 Under pressure 라는 곡을 정말 좋아해서 수천번도 더 들었었는데요,
+ 가사가 있는 블로그 포스팅을 추가해봅니다! ㅎㅎ
+
+http://m.blog.naver.com/yoonmooon98/220259876269
+
