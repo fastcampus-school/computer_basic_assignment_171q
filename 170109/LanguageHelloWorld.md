@@ -5,7 +5,7 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("Hello, world!\n");
+	printf("Hello, World!\n");
 	return 0;
 }
 ```
@@ -15,7 +15,7 @@ int main(void)
 ```
 class Hello {
 	public static void main (String[] args) {
-		System.out.println("Hello, world!");
+		System.out.println("Hello, World!");
 	}
 }
 ```
@@ -30,7 +30,7 @@ document.writeln('Hello, World!');
 ```
 #import <Foundation/Foundation.h>
 int main() {
-	NSLog(@"Hello, world!");
+	NSLog(@"Hello, World!");
 	return 0;
 }
 ```
