@@ -1,11 +1,40 @@
 ﻿# 퀸 (밴드)
-> 퀸(Queen)은 영국의 록 밴드이다. 1970년대 중반부터 1990년대 초반까지 주로 활동하였으며, 현재까지 세계적으로 많은 팬을 보유하고 있다. 국가별 판매량 인증 합산에 따르면 퀸은 세계적으로 통산 약 9천6백만 장의 음반을 판매한 것으로 집계되었으며(역대 12위), 비공식 기록까지 합산한 추정 판매량은 1억5천만~2억 장에 이른다.
+> 퀸(Queen)은 영국의 록 밴드이다. 1970년대 중반부터 1990년대 초반까지 주로 활동하였으며, 현재까지 세계적으로 많은 팬을 보유하고 있다. 국가별 판매량 인증 합산에 따르면 퀸은 세계적으로 통산 약 9천6백만 장의 음반을 판매한 것으로 집계되었으며(역대 12위), 비공식 기록까지 합산한 추정 판매량은 1억5천만~2억 장에 이른다. 대한민국에서는 퀸의 노래는 알면서 정작 퀸이라는 밴드는 들어본 적도 없는 사람들이 꽤 많다. TV광고에 삽입된 곡이 아주 많고 어느 특정 상황에 쓰이는 명곡이 존재하기 때문일 것이다.
 
 ## 멤버
+* 프레디 머큐리(Freddie Mercury) : 리드 보컬, 피아노
+* 브라이언 메이(Brian May) : 기타, 보컬, 신디사이저
+* 로저 테일러(Rodger Taylor) : 드럼
+* 존 디콘(John Deacon) : 베이스
 
 ## 주요 곡
+[We Will Rock You](https://www.youtube.com/watch?v=-tJYN-eG1zk)
+[We Are The Champions](https://www.youtube.com/watch?v=04854XqcfCY)
+[Bohemian Rhapsody](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)
+[Don't Stop Me Now](https://www.youtube.com/watch?v=HgzGwKwLmgM)
+[Love Of My Life](https://www.youtube.com/watch?v=sUJkCXE4sAA)
+[I Was Born To Love You](https://www.youtube.com/watch?v=vNhhAEupU4g)
+[Somebody To Love](https://www.youtube.com/watch?v=kijpcUv-b8M)
+[Good Old Fashioned Lover Boy](https://www.youtube.com/watch?v=PI3LAgGBxqU)
+[Save Me](https://www.youtube.com/watch?v=Iw3izcZd9zU)
+
 
 ## 음반 목록
+1973 Queen
+1974 Queen II
+1974 Sheer Heart Attack
+1975 [A Night at the Opera](https://ko.wikipedia.org/wiki/A_Night_at_the_Opera)
+1976 [A Day at the Races](https://ko.wikipedia.org/wiki/A_Day_at_the_Races_(%EC%9D%8C%EB%B0%98))
+1977 [News of the World](https://ko.wikipedia.org/wiki/News_of_the_World)
+1978 [Jazz](https://ko.wikipedia.org/wiki/Jazz_(%EC%9D%8C%EB%B0%98))
+1980 [The Game](https://ko.wikipedia.org/wiki/The_Game_(%ED%80%B8%EC%9D%98_%EC%9D%8C%EB%B0%98))
+1980 Flash Gordon
+1982 Hot Space
+1984 [The Works](https://ko.wikipedia.org/wiki/The_Works)
+1986 A Kind of Magic
+1989 The Miracle
+1991 Innuendo
+1995 [Made in Heaven](https://ko.wikipedia.org/wiki/Made_in_Heaven)
 
 ## 광고 삽입곡
 [KB증권 able 광고](https://www.youtube.com/watch?v=rAdjtSLWmJ4)
@@ -31,3 +60,7 @@
 
 [대한항공 소치올림픽 응원 광고](https://vimeo.com/131343098)
 [Queen - Good Old Fashioned Lover Boy](https://www.youtube.com/watch?v=PI3LAgGBxqU)
+
+[코오롱스포츠 안타티카 광고](https://www.youtube.com/watch?v=PVWs6xFURVM)
+[현대카드 슈퍼매치](https://www.youtube.com/watch?v=X-Z5q9KBrxI)
+[Queen - Play The Game](https://www.youtube.com/watch?v=6_5O-nUiZ_0)
