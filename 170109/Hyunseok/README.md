@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 ﻿# 나는 왕이 올시다
 
+=======
+﻿﻿Made By Hyunseok
+>>>>>>> 5492358f7f02e49ba0dc60c2c761c70daa26e3e3
 # 퀸 (밴드)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_-_montagem.png/250px-Queen_-_montagem.png)
 
