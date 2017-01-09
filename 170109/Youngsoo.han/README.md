@@ -22,7 +22,7 @@
 프로젝트 경험
 =====
 > 학급관리 프로그램(ClassManager)
-_프론트엔드(Front-end) / 백엔드(Back-end) 모두 참여_
+-_프론트엔드(Front-end) / 백엔드(Back-end) 모두 참여_
 * Git-hub : https://github.com/MinGu-Kim/ClassManager
 * Youtube : https://youtu.be/nTw_VAWpRBo
 
