@@ -23,7 +23,7 @@ Remote Repository<br>
 
 ##Github은 Git 저장소를 제공하는 서비스 중에서 하나일 뿐입니다.
 
-####souretree 설치<br><https://www.sourcetreeapp.com>
+* souretree 설치<br><https://www.sourcetreeapp.com>
 
 잘 모르겠거나 궁금하신 사항 있으면?<br><br>
 ![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br>
