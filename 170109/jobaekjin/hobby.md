@@ -11,9 +11,9 @@
 3. Repository
 변경이력을 저장한 저장소
 4. Local & Remote<br><br> 
-- Local Repository<br>
+Local Repository<br>
 저장소의 위치가 컴퓨터에 존재.<br>
-- Remote Repository<br>
+Remote Repository<br>
 저장소의 위치가 서버에 존재.<br>
 
 * working dircetory -> stage area : Add
