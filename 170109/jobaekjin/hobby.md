@@ -28,4 +28,4 @@ Remote Repository<br>
 * 잘 모르겠거나 궁금하신 사항 있으면?<br><br>
 ![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br>
 <br><br> 
-#검색하러가기<br>[구글 신](http://google.com)
+검색하러가기<br>[구글 신](http://google.com)
