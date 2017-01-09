@@ -1,2 +1,1 @@
-kkkkkkkkk﻿# computer_basic_assignment
-패스트캠퍼스 2017년 1기 모바일 스쿨 컴퓨터 기초 과정 과제 제출 저장소입니다.
+![부자](http://m.post.naver.com/viewer/image.nhn?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxNjExMTFfNTkg%2FMDAxNDc4ODM2NjY1OTYy.H96607YSCwwB27PXW7X-s_iKNaTKGWfFcZHKgjWtbxIg._Hqs9sWb4XzFMjoXKWz2a24pIvbQ2ZcykvrAQr4JDr0g.JPEG%2F0.jpg)
