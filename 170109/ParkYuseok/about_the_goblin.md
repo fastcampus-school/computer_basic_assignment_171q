@@ -22,7 +22,7 @@
 ## 2. 도깨비란 무엇인가.
 
  사람들에게 "도깨비!" 하면 조건반사적으로 "공유!"라고 하는 지금이 아닌 드라마가 나오기 전에는 도깨비에 대해 물어보면 머리에 솟은 뿔과 흉폭하게 생긴 얼굴, 삐죽삐죽한 가시가 돋은 한방에 주님곁으로 보내줄거같은 방망이를 떠올리는게 일반적이었습니다.
-![엄마도깨비방망이](http://image.auction.co.kr/itemimage/0c/ef/e0/0cefe0ae0.jpg)
+![도깨비방망이](https://github.com/fastcampus-school/computer_basic_assignment_171q/blob/master/170109/ParkYuseok/image/%EC%98%A4%EB%8B%88%EB%B0%A9%EB%A7%9D%EC%9D%B4.jpg?raw=true)
 
 그러나, 위의 설명과 사진의 모습은 사실 일본의 요괴중 한 종류인 오니의 모습이라는 설이 유력하게 알려져있습니다.
 그렇다면 우리나아의 도깨비는 어떠한 모습일까?
