@@ -1,7 +1,6 @@
 # 힙합레이블
 ## DAZE ALIVE 
 ![DAZE ALIVE](https://pbs.twimg.com/profile_images/637966399147634689/SwKdHt49.jpg "DAZE ALIVE") 
-### 구성원 
 ### 제리케이
 
 
@@ -38,7 +37,6 @@
 
 ### MOVEMENT
 ![MOVEMENT](http://www.theartist.co.kr/news/photo/201512/1904_9492_1637.jpg "MOVEMOENT") 
-### 구성원 
 ### 타이거 JK
 
 
@@ -71,7 +69,6 @@
 
 ### MOVEMENT
 ![ILLIONAIRE](http://hiphople.com/files/attach/images/49478/517/094/ILLIONAIRE_LOGO_silver.jpg "ILLIONAIRE") 
-#### 구성원 
 
 #### Dok2
 
