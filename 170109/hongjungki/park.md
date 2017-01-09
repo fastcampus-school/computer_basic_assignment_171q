@@ -16,3 +16,6 @@
 
 
 ![박근혜 하야](https://search1.kakaocdn.net/argon/0x200_85_hr/6VpSDgzUGpk)
+
+----
+>이미 잡혀간 수강생입니다.
