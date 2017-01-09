@@ -16,12 +16,10 @@ Local Repository<br>
 Remote Repository<br>
 저장소의 위치가 서버에 존재.<br>
 
-* working directory<br> stage area<br> local repository<br> remote repository<br>
-
-###working dircetory -> stage area : Add
-###stage area -> local repository : Commit
-###local repository -> remote repository : Push
-###remote repository -> working directory : Pull
+* ###working dircetory -> stage area : Add
+* ###stage area -> local repository : Commit
+* ###local repository -> remote repository : Push
+* ###remote repository -> working directory : Pull
 
 ##Github은 Git 저장소를 제공하는 서비스 중에서 하나일 뿐입니다.
 
