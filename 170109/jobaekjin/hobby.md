@@ -18,10 +18,10 @@ Remote Repository<br>
 
 working directory<br> stage area<br> local repository<br> remote repository
 
-###working dircetory -> stage area : add
-###stage area -> local repository : commit
-###local repository -> remote repository : push
-###remote repository -> working directory : pull
+###working dircetory -> stage area : Add
+###stage area -> local repository : Commit
+###local repository -> remote repository : Push
+###remote repository -> working directory : Pull
 
 ##Github은 Git 저장소를 제공하는 서비스 중에서 하나일 뿐입니다.
 
