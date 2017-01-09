@@ -29,5 +29,6 @@ working directory | stage area | local repository | remote repository
 <https://www.sourcetreeapp.com>
 
 잘 모르겠거나 궁금하신 사항 있으면?<br>
-![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br>
+![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br><br>
+<br>
 ###구글 신 찾아주세요!
