@@ -4,13 +4,13 @@
 > 파일의 변경이력을 기록하여 관리를 용이하게 해주는 것
 > 협업할 때, 중요한 툴
 
-1.Working Directory
+1. Working Directory
 실제 작업하고 있는 공간
-2.Staging Area
+2. Staging Area
 일종의 준비구역
-3.Repository
+3. Repository
 변경이력을 저장한 저장소
->Local & Remote
+> Local & Remote
 Local Repository
 저장소의 위치가 컴퓨터에 존재.
 Remote Repository
