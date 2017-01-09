@@ -9,26 +9,25 @@
 * Spring
 * MYSQL(MYBATIS3)
 
-
 공부하고 싶은 언어 및 분야
 =====
-* 선생님은 담당 반에 속한 학생의 목록을 통해 학생 사진과 정보를 볼 수 있습니다.
-* 선생님은 선택한 학생의 내신 성적과 모의고사 성적을 입력할 수 있습니다. 학생 또한 자신의 성적 입력이 가능합니다.
-* 입력된 성적은 모두 표와 그래프로 표시되며 성적의 변화를 한눈에 볼 수 있습니다.
-* 데이터화된 대학 입시 성적을 학생의 성적과 비교 및 분석이 가능합니다.
-* 선생님은 특정 학생에 관하여 기록이 필요한 경우에는 학생 정보 아래 추가할 수 있습니다.
-* 선생님과 학생들은 자신의 반 구성원과 소통할 수 있는 게시판 권한이 주어집니다.
-* 자료 공유를 위한 파일업로드 및 다운로드가 가능합니다.
-* 커뮤니티 활성화를 위해 학급앨범 등록과 의견 결정을 위한 투표가 가능합니다.
-* 학급 및 학교 일정을 한눈에 볼 수 있습니다.
+* IOS
+* Objective-c
+* swif
+* REST API 
+* Python
+* DJango
+* Linux
 
-Preview
+프로젝트 경험
 =====
+> 학급관리 프로그램(ClassManager)
+* Git-hub : https://github.com/MinGu-Kim/ClassManager
 * Youtube : https://youtu.be/nTw_VAWpRBo
 
 Application Architecture
 =====
-![architecture](https://trello-attachments.s3.amazonaws.com/58218cdde26981ea109d015b/586660a24b157f9ea275caa9/97c1f10f4a6fa04fdf42543a99a453ef/Application_architecture.png)
+![Encourage](http://livwater.blogspot.kr/2012/03/encourage-discouraged.html)
 
 Open Source List
 =====
