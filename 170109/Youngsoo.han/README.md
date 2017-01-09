@@ -27,7 +27,7 @@
 
 Application Architecture
 =====
-![Encourage](http://livwater.blogspot.kr/2012/03/encourage-discouraged.html)
+![Encourage](http://1.bp.blogspot.com/-88xtzUKghrc/T0hnYkSssJI/AAAAAAAABak/qU4BqavRj1Y/s1600/encouragement.jpg)
 
 Open Source List
 =====
