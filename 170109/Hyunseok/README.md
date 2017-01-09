@@ -62,7 +62,8 @@
 
 ## 광고 삽입곡
 *[KB증권 able 광고](https://www.youtube.com/watch?v=rAdjtSLWmJ4)
-**[Queen - Under Pressure](https://www.youtube.com/watch?v=a01QQZyl-_I)
+
+[Queen - Under Pressure](https://www.youtube.com/watch?v=a01QQZyl-_I)
 
 [삼성 갤럭시 광고](https://www.youtube.com/watch?v=PB-KcazRySg)
 [Queen - I Was Born To Love You](https://www.youtube.com/watch?v=uMGjN8-9IG0)
