@@ -1,8 +1,8 @@
 #git
->소스 저장소란 무엇인가?
->VCS : Version Control System
->파일의 변경이력을 기록하여 관리를 용이하게 해주는 것
->협업할 때, 중요한 툴
+> 소스 저장소란 무엇인가?
+> VCS : Version Control System
+> 파일의 변경이력을 기록하여 관리를 용이하게 해주는 것
+> 협업할 때, 중요한 툴
 
 1.Working Directory
 실제 작업하고 있는 공간
