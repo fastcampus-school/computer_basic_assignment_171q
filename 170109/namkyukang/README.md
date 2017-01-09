@@ -34,9 +34,9 @@ _>지금까지 향수를 사용한 적이 없는 사람이라면 오늘부터 �
 ④ 헤어 제품은 무향료를 고른다 : 향수를 뿌릴 때는 무향료의 헤어 제품 등을 고르도록 하자. 또 땀냄새에도 세심한 주의를 요한다. 데오도란트도 무향료를 선택하면 향수와 섞이지 않는다.
 
 ## 4. 향수 뿌리는 곳은..??
-![](http://terms.naver.com/imageDetail.nhn?cid=42813&imageUrl=http%3A%2F%2Fdbscthumb.phinf.naver.net%2F1254_000_1%2F20120629185913120_0W1Y53CNZ.jpg%2Ffd8_184_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=42813&docId=1048725)
+!(http://terms.naver.com/imageDetail.nhn?cid=42813&imageUrl=http%3A%2F%2Fdbscthumb.phinf.naver.net%2F1254_000_1%2F20120629185913120_0W1Y53CNZ.jpg%2Ffd8_184_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=42813&docId=1048725)
 ## 5. 때와 상황에 따른 향수 선택과 직업
----
+*---*
 ### ①. 플로럴(Floral)
 부드러운 꽃향기가 조화로운 향기. 단일 꽃향이나 여러 가지 꽃이 혼합되었을 때 나타내는 말. 여러 가지 꽃향이 잘 어울려진 것을 '플로럴 부케'라고 한다.
 * TPO : 캐주얼, 레스토랑 
