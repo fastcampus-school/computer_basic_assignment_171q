@@ -25,7 +25,7 @@
 * Git-hub : https://github.com/MinGu-Kim/ClassManager
 * Youtube : https://youtu.be/nTw_VAWpRBo
 
-Application Architecture
+앞으로의 다짐
 =====
 ![Encourage](http://1.bp.blogspot.com/-88xtzUKghrc/T0hnYkSssJI/AAAAAAAABak/qU4BqavRj1Y/s1600/encouragement.jpg)
-#놀만큼 놀았다 공부하자!
+    #놀만큼 #놀았다 #공부하자!
