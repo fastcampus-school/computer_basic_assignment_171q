@@ -1,6 +1,5 @@
+BMW한국에 판매 중인 차량을 소개합니다.
 
-BMW KOREA Product Line
-======================
 
 BMW Line UP
 -----------
