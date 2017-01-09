@@ -10,7 +10,7 @@
 일종의 준비구역
 3. Repository
 변경이력을 저장한 저장소
-> Local & Remote
+4. Local & Remote
 Local Repository
 저장소의 위치가 컴퓨터에 존재.
 Remote Repository
