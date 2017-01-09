@@ -15,3 +15,4 @@ _자격을 상실한 통치자는 국민이 끌어내릴 수 있어야 하며, �
 
 
 
+/Users/hongjeong-ki/Downloads/%EB%8F%85%EC%9E%AC%EC%9E%90%EC%9D%98%EB%94%B8%EA%B3%BC_%EC%95%84%EB%93%A4-2.PNG
