@@ -16,3 +16,4 @@ _자격을 상실한 통치자는 국민이 끌어내릴 수 있어야 하며, �
 
 
 
+![박근혜 하야](Users/hongjeong-ki/Downloads/6L25qoV10MH.jpeg)
