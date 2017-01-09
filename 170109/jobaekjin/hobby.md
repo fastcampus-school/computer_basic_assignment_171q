@@ -14,7 +14,7 @@
 Local Repository<br>
 저장소의 위치가 컴퓨터에 존재.<br>
 Remote Repository<br>
-저장소의 위치가 서버에 존재.
+저장소의 위치가 서버에 존재.<br>
 
 working directory | stage area | local repository | remote repository
 
@@ -28,7 +28,7 @@ working directory | stage area | local repository | remote repository
 ####souretree 설치<br>
 <https://www.sourcetreeapp.com>
 
-잘 모르겠거나 궁금하신 사항 있으면?<br>
-![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br><br>
+잘 모르겠거나 궁금하신 사항 있으면?<br><br>
+![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br>
 <br>
 ###구글 신 찾아주세요!
