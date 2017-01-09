@@ -41,6 +41,8 @@
 ![](http://cfile2.uf.tistory.com/image/2641AB40562CC3580F2A07)
 ![](http://cfile2.uf.tistory.com/image/2641AB40562CC3580F2A07)
 
+>이건 진짜 맛있다. 진짜 추천합니다.
+
 *주소 : 서울 용산구 이태원동 211-19 
 
 *전화번호 : 02-749-1411 
