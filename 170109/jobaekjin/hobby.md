@@ -27,5 +27,5 @@ Remote Repository<br>
 * git 명령어 및 브랜치 연습<br><https://www.codeschool.com/paths/git><br><http://pcottle.github.io/learnGitBranching/><br><br>
 잘 모르겠거나 궁금하신 사항 있으면?<br><br>
 ![구글 로고](http://www.google.co.kr/images/srpr/logo11w.png)<br>
-<br>
-###구글 신 찾아주세요!
+<br><br>
+### 구글 신!
