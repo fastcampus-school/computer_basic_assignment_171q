@@ -1,4 +1,6 @@
-﻿# 퀸 (밴드)
+﻿# 충돌 충돌 충돌 충돌
+
+# 퀸 (밴드)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_-_montagem.png/250px-Queen_-_montagem.png)
 
 ## 개요
