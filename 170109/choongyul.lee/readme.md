@@ -6,7 +6,7 @@
 
 2. abc
 ---
-	* 기타(guiter)
+	* 기타(guitar)
 1. test
 
 2. abc
