@@ -27,7 +27,7 @@
 
 Application Architecture
 =====
-![architecture](https://trello-attachments.s3.amazonaws.com/58218cdde26981ea109d015b/586660a24b157f9ea275caa9/97c1f10f4a6fa04fdf42543a99a453ef/Application_architecture.png)
+![Encourage](http://1.bp.blogspot.com/-88xtzUKghrc/T0hnYkSssJI/AAAAAAAABak/qU4BqavRj1Y/s1600/encouragement.jpg)
 
 Open Source List
 =====
