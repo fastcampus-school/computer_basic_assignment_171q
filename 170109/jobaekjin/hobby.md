@@ -16,7 +16,7 @@ Local Repository<br>
 Remote Repository<br>
 저장소의 위치가 서버에 존재.<br>
 
-[^1]: working directory<br> stage area<br> local repository<br> remote repository
+* working directory<br> stage area<br> local repository<br> remote repository<br>
 
 ###working dircetory -> stage area : Add
 ###stage area -> local repository : Commit
