@@ -3,6 +3,7 @@
 이윤규의 축구 관련 용어 정리입니다.
 
 ###리버풀에 관하여
+![킹갓더제너럴더풋볼더레전드제라드](http://static-a-timetree.zumst.com/cache/images/530x/?http%3A%2F%2Ftimetree.zumst.com%2F2015%2F01%2F07%2F09%2F71933964a6c0411dae6a76acc374610b.jpeg)
 
 1. 리중딱 - 리버풀은 중위권이 딱이야
 2. 리능안 - 리버풀 라카제트 영입할 능력 안돼
