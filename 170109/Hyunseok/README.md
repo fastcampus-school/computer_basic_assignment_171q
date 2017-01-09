@@ -1,5 +1,7 @@
 ﻿# 퀸 (밴드)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_-_montagem.png/250px-Queen_-_montagem.png)
+
+## 개요
 퀸(Queen)은 영국의 록 밴드이다. 1970년대 중반부터 1990년대 초반까지 주로 활동하였으며, 현재까지 세계적으로 많은 팬을 보유하고 있다. 국가별 판매량 인증 합산에 따르면 퀸은 세계적으로 통산 약 9천6백만 장의 음반을 판매한 것으로 집계되었으며(역대 12위), 비공식 기록까지 합산한 추정 판매량은 1억5천만~2억 장에 이른다. 대한민국에서는 퀸의 노래는 알면서 정작 퀸이라는 밴드는 들어본 적도 없는 사람들이 꽤 많다. TV광고에 삽입된 곡이 아주 많고 어느 특정 상황에 쓰이는 명곡이 존재하기 때문일 것이다.
 
 ## 멤버
@@ -59,8 +61,8 @@
 1995 [Made in Heaven](https://ko.wikipedia.org/wiki/Made_in_Heaven)
 
 ## 광고 삽입곡
-[KB증권 able 광고](https://www.youtube.com/watch?v=rAdjtSLWmJ4)
-[Queen - Under Pressure](https://www.youtube.com/watch?v=a01QQZyl-_I)
+*[KB증권 able 광고](https://www.youtube.com/watch?v=rAdjtSLWmJ4)
+**[Queen - Under Pressure](https://www.youtube.com/watch?v=a01QQZyl-_I)
 
 [삼성 갤럭시 광고](https://www.youtube.com/watch?v=PB-KcazRySg)
 [Queen - I Was Born To Love You](https://www.youtube.com/watch?v=uMGjN8-9IG0)
