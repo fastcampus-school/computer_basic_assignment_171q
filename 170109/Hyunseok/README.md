@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿# 충돌 충돌 충돌 충돌
 
+=======
+﻿# 나는 왕이 올시다
+>>>>>>> f7e300f3e99dae4d8baf56263894c7beb0137164
 # 퀸 (밴드)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_-_montagem.png/250px-Queen_-_montagem.png)
 
