@@ -35,5 +35,7 @@ EUC-KR은 2350자의 완성형 한글을 표현할수 있게 해주며 이후 �
 
 
 ---
-덧. 어제 관심분야 작성 과제가 remote repository에 업로드가 안되었었습니다 ㅠㅠ 수정했으니 한번더 확인부탁드리겠습니다.
+덧. 어제 관심분야 작성 과제가 remote repository에 업로드가 안되었었습니다 ㅠㅠ 수정했으니 한번더 확인부탁드리겠습니다. [9일 과제 링크]
+
+[9일 과제 링크]:<https://github.com/fastcampus-school/computer_basic_assignment_171q/tree/master/170109/a.choongyul.lee>
 ---
