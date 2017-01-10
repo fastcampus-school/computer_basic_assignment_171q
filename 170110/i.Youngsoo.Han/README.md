@@ -1,7 +1,7 @@
 1. RAM은 어떤 단어들의 약자이며, 왜 RAM이라고 부르게 되었을까?
 ====
->Ram은 어떤것의 약자일까요?
-  Random Access Memory
+> Ram은 어떤것의 약자일까요?
+  * Random Access Memory
   
   
   
