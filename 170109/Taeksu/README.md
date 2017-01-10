@@ -1,8 +1,3 @@
-
-![제주도](http://cfile30.uf.tistory.com/image/250ECD5053FDA017067CF2)
-
-
-
 여행을 좋아합니다
 ===============
 
