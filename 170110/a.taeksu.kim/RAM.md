@@ -20,7 +20,7 @@ CPU의 데이터 처리 속도는 굉장히 빠르고 저장장치의 속도는 
 
 
 #RAM의 시초
-[램의 시초라고 할 수 있는 자기 코어 메모리](https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B8%B0_%EC%BD%94%EC%96%B4_%EB%A9%94%EB%AA%A8%EB%A6%AC)
+[램의 시초라고 할 수 있는 자기 코어 메모리](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/KL_CoreMemory.jpg/220px-KL_CoreMemory.jpg)
 
 
 	
