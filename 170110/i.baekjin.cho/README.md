@@ -44,9 +44,9 @@
 : 유니코드의 인코딩 방식으로는 코드 포인트를 코드화한 UCS-2와 UCS-4, 변환 인코딩 형식(UTF, UCS Transformation Format)인 UTF-7, UTF-8, UTF-16, UTF-32 인코딩 등이 있다. 이 중 ASCII와 호환이 가능하면서 유니코드를 표현할 수 있는 UTF-8 인코딩이 가장 많이 사용된다. UTF-8은 코드 포인트 범위에 따라 다음 표에서 보는 바와 같이 인코딩 방식이 다르다. <br>
 |코드 포인트 범위   | 비트 수 | 인코딩 | <br>
 
-|U+0000~U+007F  |7      |그대로 인코딩| <br>
-|U+0080~U+07FF  |11     |110xxxxx 10xxxxxx <br>
-|U+0800~U+FFFF  |16     |1110xxxx 10xxxxxx 10xxxxxx <br>
-|U+10000~U+1FFFF|21     |11110xxx 10xxxxxx 10xxxxxx 10xxxxxx <br>
+     |U+0000~U+007F  |7      |그대로 인코딩| <br>
+     |U+0080~U+07FF  |11     |110xxxxx 10xxxxxx <br>
+     |U+0800~U+FFFF  |16     |1110xxxx 10xxxxxx 10xxxxxx <br>
+     |U+10000~U+1FFFF|21     |11110xxx 10xxxxxx 10xxxxxx 10xxxxxx <br>
 
 
