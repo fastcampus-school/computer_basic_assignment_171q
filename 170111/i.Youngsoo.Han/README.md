@@ -1,4 +1,4 @@
-![ActiveX](https://cdn.namuwikiusercontent.com/d0/d0ee4ce168bc4ce0b5fb25261ed55d058e5258880e47c52b374e3ea19dd72fe9.png?e=1488437418&k=53sHyqyKiNGrGovT1j1q2A.jpg)
+![ActiveX](http://www.activexcontrol.org/wp-content/uploads/2010/07/active-x-2-bb2.png)
 
 1. ActiveX가 무엇일까?  
 ----
