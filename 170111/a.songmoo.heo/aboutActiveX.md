@@ -26,6 +26,7 @@ PC용 운영체제 중 가장 높은 점유율을 가지고 있는 것이 마이크로소프트의 윈도(Windo
 이 경우 인터넷 서핑 중에 갑자기 광고 창이 출력되거나 원하지 않는 웹사이트로 이동하는 등의 현상이 일어나곤 한다. 
 그리고 과도하게 많은 액티브엑스를 설치한 PC는 전반적인 처리 속도가 크게 저하되는 것도 문제다.
 
+![](https://github.com/fastcampus-school/computer_basic_assignment_171q/blob/master/170111/a.songmoo.heo/img/active-x_5.png?raw=true)
 
 ### **액티브엑스의 한계를 넘기 위한 노력**
  
