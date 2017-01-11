@@ -1,7 +1,7 @@
 3일차 과제
 
 
-![acivex](/Users/hongjeong-ki/Downloads/8GwF79c7wpB.jpeg)   
+![acivex](8GwF79c7wpB.jpeg) 
 
 
 ##ActiveX가 무엇일까? 
@@ -47,4 +47,4 @@ ActiveX를 사용하면, WWW 에서 다양한 멀티미디어 사용, 대화식 
 
 
 
-![가 가란말야](/Users/hongjeong-ki/Downloads/GHiM0AVb9ul.jpeg)
+![가 가란말야](GHiM0AVb9ul.jpeg)
