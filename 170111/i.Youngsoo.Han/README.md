@@ -1,3 +1,5 @@
+![ActiveX](https://cdn.namuwikiusercontent.com/d0/d0ee4ce168bc4ce0b5fb25261ed55d058e5258880e47c52b374e3ea19dd72fe9.png?e=1488437418&k=53sHyqyKiNGrGovT1j1q2A.jpg)
+
 1. ActiveX가 무엇일까?  
 ----
 * 대한민국에서 IE를 어쩔수 없이 질리도록 써야하는 이유이자 만악의 근원이라 표현
