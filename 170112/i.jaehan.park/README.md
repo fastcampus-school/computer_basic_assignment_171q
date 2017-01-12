@@ -20,6 +20,7 @@ SEED는 대칭 키 방식의 암호화 방식이므로 보안에 취약하다. �
 
 모바일 앱 접근성 지침은 7개의 필수사항과 8개의 권고사항을 담은 1.0을 거쳐 4개의 원칙과 19개의 세부지침으로 이루어진 2.0이 발표되었다.
 
+<br>
 - 모바일 애플리케이션 2.0 세부 지침
 
 ![모바일 애플리케이션 2.0 세부 지침](https://github.com/fastcampus-school/computer_basic_assignment_171q/blob/master/170112/i.jaehan.park/모바일앱접근성2_0.jpeg?raw=true)
