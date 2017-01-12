@@ -23,8 +23,8 @@
 
 
 * 局敲府纳捞记 立辟己
-  - 聚(局敲府纳捞记) 立辟己?
-![聚立辟己1](http://www.ablenews.co.kr/news/newsimages/newsimage/c_0_000620150919223523327047.jpg "聚立辟己2")
+  - 聚(局敲府纳捞记) 立辟己? <br/>
+![聚立辟己1](http://https://github.com/fastcampus-school/computer_basic_assignment_171q/blob/master/170112/a.choongyul.lee/pic01.JPG "聚立辟己2")
 ![聚立辟己2](http://www.ablenews.co.kr/news/newsimages/newsimage/c_0_000620150919223523327047.jpg "聚立辟己2")
 
 
